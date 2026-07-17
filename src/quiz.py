@@ -1,5 +1,5 @@
+import random
 from questions import questions
-
 
 class Quiz:
 
@@ -12,9 +12,12 @@ class Quiz:
         print("FINLAND HISTORY QUIZ")
         print("=" * 40)
 
-        for i, q in enumerate(questions, start=1):
+        # Randomly choose 5 questions
+        selected_questions = random.sample(questions, 5)
 
-            print(f"\nQuestion {i}/{len(questions)}")
+        for i, q in enumerate(selected_questions, start=1):
+
+            print(f"\nQuestion {i}/{len(selected_questions)}")
             print(q["question"])
 
             for letter, option in q["options"].items():
@@ -32,9 +35,9 @@ class Quiz:
                 print(f"Wrong! Correct answer: {q['answer']}")
 
         print("\nQuiz finished!")
-        print(f"Score: {self.score}/{len(questions)}")
+        print(f"Score: {self.score}/{len(selected_questions)}")
 
-        percentage = self.score / len(questions) * 100
+        percentage = self.score / len(selected_questions) * 100
 
         if percentage == 100:
             print("Excellent!")

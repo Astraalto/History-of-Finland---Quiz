@@ -148,5 +148,35 @@ questions = [
             "D": "1918"
         },
         "answer": "A"
+    },
+    {
+        "question": "Which Finnish municipality was named the European Capital of Culture for 2026?",
+        "options": {
+            "A": "Helsinki",
+            "B": "Turku",
+            "C": "Oulu",
+            "D": "Tampere"
+        },
+        "answer": "C"
+    },
+    {
+        "question": "What other languages belong to the same language group as Finnish?",
+        "options": {
+            "A": "Estonian and Hungarian",
+            "B": "Swedish and Norwegian",
+            "C": "Latvian and Lithuanian",
+            "D": "Polish and Sorbian"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "When was Grand Duchy of Finland founded?",
+        "options": {
+            "A": "1805",
+            "B": "1809",
+            "C": "1812",
+            "D": "1814"
+        },
+        "answer": "B"
     }
 ]
