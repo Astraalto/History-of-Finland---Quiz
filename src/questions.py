@@ -178,5 +178,15 @@ questions = [
             "D": "1814"
         },
         "answer": "B"
+    },
+    {
+        "question": "In which year first university in Finalnd was created and where?",
+        "options": {
+            "A": "1550 in Helsinki",
+            "B": "1590 in Tampere",
+            "C": "1640 in Turku",
+            "D": "1750 in Helsinki"
+        },
+        "answer": "C"
     }
 ]
