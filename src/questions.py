@@ -180,7 +180,7 @@ questions = [
         "answer": "B"
     },
     {
-        "question": "In which year first university in Finalnd was created and where?",
+        "question": "In which year first university in Finland was created and where?",
         "options": {
             "A": "1550 in Helsinki",
             "B": "1590 in Tampere",
@@ -188,5 +188,25 @@ questions = [
             "D": "1750 in Helsinki"
         },
         "answer": "C"
+    },
+    {
+        "question": "Who is considered the father of thie Finnish language",
+        "options": {
+            "A": "Mikael Agricola",
+            "B": "Kristian Perkele",
+            "C": "Elias Lönnrot",
+            "D": "J.L.Runeberg"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "Mikael Agricola was a student of what Renaissance figures?",
+        "options": {
+            "A": "Leonardo da Vinci and Niccolò Machiavelli",
+            "B": "Nicolaus Copernicus and Albrecht Dürer",
+            "C": "Galileo and Thomas More",
+            "D": "Erasmus of Rotterdam and Martin Luther"
+        },
+        "answer": "D"
     }
 ]
