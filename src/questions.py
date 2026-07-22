@@ -208,5 +208,15 @@ questions = [
             "D": "Erasmus of Rotterdam and Martin Luther"
         },
         "answer": "D"
+    },
+    {
+        "question": "Who is considered the Father of Finland national indentity?",
+        "options": {
+            "A": "Jean Sibelius",
+            "B": "Carl Gustaf Emil Mannerheim",
+            "C": "Urho Kekkonen",
+            "D": "Elias Lönnrot"
+        },
+        "answer": "A"
     }
 ]
