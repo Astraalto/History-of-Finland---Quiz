@@ -218,5 +218,25 @@ questions = [
             "D": "Elias Lönnrot"
         },
         "answer": "A"
-    }
+    },
+    {
+        "question": "Who was the creator of the Finnish policy of ?",
+        "options": {
+            "A": "Jean Sibelius",
+            "B": "Carl Gustaf Emil Mannerheim",
+            "C": "Urho Kekkonen",
+            "D": "Elias Lönnrot"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "Who was the creator of the Finnish policy of active neutrality?",
+        "options": {
+            "A": "Jean Sibelius",
+            "B": "Carl Gustaf Emil Mannerheim",
+            "C": "Urho Kekkonen",
+            "D": "Elias Lönnrot"
+        },
+        "answer": "A"
+        },
 ]
