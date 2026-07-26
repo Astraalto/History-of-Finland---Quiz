@@ -240,13 +240,23 @@ questions = [
         "answer": "A"
         },
     {
-            "question": "What is the world's northernmist metro station?",
-            "options": {
-                "A": "Kivenlahti",
-                "B": "Mellunmäki",
-                "C": "Vuosaari",
-                "D": "Pasila"
-            },
-            "answer": "B"
-            },
+        "question": "What is the world's northernmist metro station?",
+        "options": {
+            "A": "Kivenlahti",
+            "B": "Mellunmäki",
+            "C": "Vuosaari",
+            "D": "Pasila"
+        },
+        "answer": "B"
+        },
+    {
+        "question": "When Mikael Agricola became bishop of Finland?",
+        "options": {
+            "A": "1550",
+            "B": "1551",
+            "C": "1554",
+            "D": "1557"
+        },
+        "answer": "C"
+        },
 ]
