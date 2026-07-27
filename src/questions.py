@@ -259,4 +259,14 @@ questions = [
         },
         "answer": "C"
         },
+    {
+        "question": "Who is the author who gathered the Finnish national epic - Kalevala?",
+        "options": {
+            "A": "Elias Lönnrot",
+            "B": "Eino Leino",
+            "C": "Mikael Aricola",
+            "D": "Tove Jansson"
+        },
+        "answer": "A"
+        },
 ]
