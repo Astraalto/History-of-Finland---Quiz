@@ -269,4 +269,14 @@ questions = [
         },
         "answer": "A"
         },
+    {
+        "question": "How many lakes are in Finland",
+        "options": {
+            "A": "156,600",
+            "B": "175,325",
+            "C": "187,888",
+            "D": "192,091"
+        },
+        "answer": "C"
+        },
 ]
