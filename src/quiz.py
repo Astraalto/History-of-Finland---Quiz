@@ -13,7 +13,7 @@ class Quiz:
         print("=" * 40)
 
         # Randomly choose 5 questions
-        selected_questions = random.sample(questions, 5)
+        selected_questions = random.sample(questions, 10)
 
         for i, q in enumerate(selected_questions, start=1):
 

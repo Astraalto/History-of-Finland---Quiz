@@ -180,7 +180,7 @@ questions = [
         "answer": "B"
     },
     {
-        "question": "In which year first university in Finland was created and where?",
+        "question": "In which year first university in Finland was created and which city?",
         "options": {
             "A": "1550 in Helsinki",
             "B": "1590 in Tampere",
@@ -238,9 +238,9 @@ questions = [
             "D": "Elias Lönnrot"
         },
         "answer": "A"
-        },
+    },
     {
-        "question": "What is the world's northernmist metro station?",
+        "question": "What is the world's northernmoBst metro station?",
         "options": {
             "A": "Kivenlahti",
             "B": "Mellunmäki",
@@ -248,7 +248,7 @@ questions = [
             "D": "Pasila"
         },
         "answer": "B"
-        },
+    },
     {
         "question": "When Mikael Agricola became bishop of Finland?",
         "options": {
@@ -258,7 +258,7 @@ questions = [
             "D": "1557"
         },
         "answer": "C"
-        },
+    },
     {
         "question": "Who is the author who gathered the Finnish national epic - Kalevala?",
         "options": {
@@ -268,7 +268,7 @@ questions = [
             "D": "Tove Jansson"
         },
         "answer": "A"
-        },
+    },
     {
         "question": "How many lakes are in Finland",
         "options": {
@@ -278,5 +278,15 @@ questions = [
             "D": "192,091"
         },
         "answer": "C"
+    },
+    {
+        "question": "When Finland celebrates Independence Day?",
+        "options": {
+            "A": "28th June",
+            "B": "2nd September",
+            "C": "11th November",
+            "D": "6th December"
         },
+        "answer": "D"
+    },
 ]
