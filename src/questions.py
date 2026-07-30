@@ -240,7 +240,7 @@ questions = [
         "answer": "A"
     },
     {
-        "question": "What is the world's northernmoBst metro station?",
+        "question": "What is the world's northernmost metro station?",
         "options": {
             "A": "Kivenlahti",
             "B": "Mellunmäki",
@@ -288,5 +288,15 @@ questions = [
             "D": "6th December"
         },
         "answer": "D"
+    },
+    {
+        "question": "Which of the following things was invented in Finland?",
+        "options": {
+            "A": "Reflecting Lights",
+            "B": "Setabelts",
+            "C": "Zipper",
+            "D": "Dynamite"
+        },
+        "answer": "A"
     },
 ]
