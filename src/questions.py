@@ -299,4 +299,14 @@ questions = [
         },
         "answer": "A"
     },
+    {
+        "question": "Who was elected as a King of Finland on the 9th October 1918 ?",
+        "options": {
+            "A": "King Gustav III of Sweden",
+            "B": "Emperor Wilhelm II of Germany",
+            "C": "Prime Minister Pehr Evind Svinhufvud of Finland",
+            "D": "Prince Frederick Charles of Hesse"
+        },
+        "answer": "A"
+    },
 ]
