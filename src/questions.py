@@ -300,7 +300,7 @@ questions = [
         "answer": "A"
     },
     {
-        "question": "Who was elected as a King of Finland on the 9th October 1918 ?",
+        "question": "Who was elected as a King of Finland on the 9th October 1918?",
         "options": {
             "A": "King Gustav III of Sweden",
             "B": "Emperor Wilhelm II of Germany",
@@ -309,4 +309,14 @@ questions = [
         },
         "answer": "A"
     },
+    {
+        "question": "What are the names of the Finnish tribes?",
+        "options": {
+            "A": "Finns, Tavastians, Karelians",
+            "B": "Finns, Livonians, Veps",
+            "C": "Karelians, Veps, Kvens",
+            "D": "Tavastians, Votes, Livonians"
+        },
+        "answer": "A"
+        },
 ]
