@@ -319,4 +319,14 @@ questions = [
         },
         "answer": "A"
     },
+    {
+        "question": "What are the names of the Finnish Civil War belligerents?",
+        "options": {
+            "A": "Yellows and Blues",
+            "B": "Yellows and Reds",
+            "C": "Whites and Reds",
+            "D": "Whites and Blues"
+        },
+        "answer": "C"
+    },
 ]
