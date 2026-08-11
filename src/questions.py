@@ -50,7 +50,7 @@ questions = [
         "answer": "C"
     },
     {
-        "question": "Who is the main character of the FInnish national epic - Kalevala?",
+        "question": "Who is the main character of the Finnish national epic - Kalevala?",
         "options": {
             "A": "Väinämöinen",
             "B": "Sampo",
@@ -307,7 +307,7 @@ questions = [
             "C": "Prime Minister Pehr Evind Svinhufvud of Finland",
             "D": "Prince Frederick Charles of Hesse"
         },
-        "answer": "A"
+        "answer": "D"
     },
     {
         "question": "What are the names of the Finnish tribes?",
@@ -318,5 +318,5 @@ questions = [
             "D": "Tavastians, Votes, Livonians"
         },
         "answer": "A"
-        },
+    },
 ]
