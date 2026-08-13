@@ -329,4 +329,14 @@ questions = [
         },
         "answer": "C"
     },
+    {
+        "question": "What are the names of the Finnish Civil War leaders?",
+        "options": {
+            "A": "Pehr E. Svinhufvud and Kullervo Manner",
+            "B": "C. G. E. Mannerheim and Ali Aaltonen",
+            "C": "Hannes Ignatius and Eero Haapalainen",
+            "D": "Ernst Linder and Eino Rahja"
+        },
+        "answer": "B"
+    },
 ]
