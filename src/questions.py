@@ -339,4 +339,14 @@ questions = [
         },
         "answer": "B"
     },
+    {
+        "question": "What is the name of the first coalition containing all Nordic countries?",
+        "options": {
+            "A": "Kalmar Union",
+            "B": "First Union",
+            "C": "Reindeer Kingdom",
+            "D": "Nordic Commowealth"
+        },
+        "answer": "A"
+    },
 ]
