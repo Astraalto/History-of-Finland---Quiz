@@ -349,4 +349,14 @@ questions = [
         },
         "answer": "A"
     },
+{
+        "question": "How many people died during Finnish Civil War in 1918?",
+        "options": {
+            "A": "12 000",
+            "B": "21 000",
+            "C": "30 000",
+            "D": "35 000"
+        },
+        "answer": "D"
+    },
 ]
