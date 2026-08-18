@@ -359,4 +359,14 @@ questions = [
         },
         "answer": "D"
     },
+{
+        "question": "In what time was Finnish Civil War?",
+        "options": {
+            "A": "6 December - 25 January 1917",
+            "B": "21 March - 23 September 1917",
+            "C": "27 January – 15 May 1918",
+            "D": "15 May - 11 November 1918"
+        },
+        "answer": "C"
+    },
 ]
