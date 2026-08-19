@@ -349,7 +349,7 @@ questions = [
         },
         "answer": "A"
     },
-{
+    {
         "question": "How many people died during Finnish Civil War in 1918?",
         "options": {
             "A": "12 000",
@@ -359,7 +359,7 @@ questions = [
         },
         "answer": "D"
     },
-{
+    {
         "question": "In what time was Finnish Civil War?",
         "options": {
             "A": "6 December - 25 January 1917",
@@ -368,5 +368,15 @@ questions = [
             "D": "15 May - 11 November 1918"
         },
         "answer": "C"
+    },
+    {
+        "question": "Who from below characters is not from the Kalevala?",
+        "options": {
+            "A": "Antero Vipunen",
+            "B": "Ulmo",
+            "C": "Louhi",
+            "D": "Väinämöinen"
+        },
+        "answer": "B"
     },
 ]
