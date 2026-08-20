@@ -379,4 +379,14 @@ questions = [
         },
         "answer": "B"
     },
+{
+        "question": "What is the name of the magical object made by Ilmarinen that can bring riches and good fortune?",
+        "options": {
+            "A": "Sampo",
+            "B": "Jauha",
+            "C": "Kantele",
+            "D": "Järvi"
+        },
+        "answer": "A"
+    },
 ]
