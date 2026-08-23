@@ -379,7 +379,7 @@ questions = [
         },
         "answer": "B"
     },
-{
+    {
         "question": "What is the name of the magical object made by Ilmarinen that can bring riches and good fortune?",
         "options": {
             "A": "Sampo",
@@ -388,5 +388,15 @@ questions = [
             "D": "Järvi"
         },
         "answer": "A"
+    },
+    {
+        "question": "Which city was previously the capital of Finland?",
+        "options": {
+            "A": "Espoo",
+            "B": "Tampere",
+            "C": "Turku",
+            "D": "Oulu"
+        },
+        "answer": "C"
     },
 ]
