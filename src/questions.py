@@ -399,4 +399,14 @@ questions = [
         },
         "answer": "C"
     },
+    {
+        "question": "When capital of Finland was moved from Turku to Helsinki?",
+        "options": {
+            "A": "1789",
+            "B": "1795",
+            "C": "1809",
+            "D": "1812"
+        },
+        "answer": "D"
+    },
 ]
