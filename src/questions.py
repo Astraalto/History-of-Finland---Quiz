@@ -409,4 +409,14 @@ questions = [
         },
         "answer": "D"
     },
+    {
+        "question": "Who was the inventor of dish drying cabinet (astiankuivauskaappi)?",
+        "options": {
+            "A": "Maiju Gebhard",
+            "B": "Tove Jansson",
+            "C": "Ella Kitunen",
+            "D": "Tarja Halonen"
+        },
+        "answer": "A"
+    },
 ]
