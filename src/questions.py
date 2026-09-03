@@ -419,4 +419,14 @@ questions = [
         },
         "answer": "A"
     },
+    {
+        "question": "Who was the youngest prime minister in Finnish history?",
+        "options": {
+            "A": "Petteri Orpo",
+            "B": "Ahti Karjalainen",
+            "C": "Edwin Linkomies",
+            "D": "Sanna Marin"
+        },
+        "answer": "D"
+    },
 ]
