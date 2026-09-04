@@ -429,4 +429,14 @@ questions = [
         },
         "answer": "D"
     },
+{
+        "question": "How many terms Urho Kekkonen was president of Finland?",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4"
+        },
+        "answer": "D"
+    },
 ]
