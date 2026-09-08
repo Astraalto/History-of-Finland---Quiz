@@ -449,4 +449,14 @@ questions = [
         },
         "answer": "B"
     },
+    {
+        "question": "How many saunas are in Finland?",
+        "options": {
+            "A": "1.5 million",
+            "B": "2.4 million",
+            "C": "2.9 million",
+            "D": "3.2 million"
+        },
+        "answer": "D"
+    },
 ]
