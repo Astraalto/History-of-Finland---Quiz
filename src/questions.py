@@ -459,4 +459,14 @@ questions = [
         },
         "answer": "D"
     },
+    {
+        "question": "What is the percentage of the forest area in Finland?",
+        "options": {
+            "A": "52 %",
+            "B": "69 %",
+            "C": "75 %",
+            "D": "81 %"
+        },
+        "answer": "C"
+    },
 ]
