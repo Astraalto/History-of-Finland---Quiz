@@ -469,4 +469,14 @@ questions = [
         },
         "answer": "C"
     },
+    {
+        "question": "In what year Finland joined European Union?",
+        "options": {
+            "A": "1990",
+            "B": "1991",
+            "C": "1993",
+            "D": "1995"
+        },
+        "answer": "D"
+    },
 ]
