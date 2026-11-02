@@ -479,4 +479,14 @@ questions = [
         },
         "answer": "D"
     },
+    {
+        "question": "In what year Finland introduced Euro(€) as a new currency?",
+        "options": {
+            "A": "1999",
+            "B": "2000",
+            "C": "2001",
+            "D": "2002"
+        },
+        "answer": "D"
+    },
 ]
