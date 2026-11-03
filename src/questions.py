@@ -489,4 +489,14 @@ questions = [
         },
         "answer": "D"
     },
+    {
+        "question": "What was the previous currency in Finland?",
+        "options": {
+            "A": "Frank",
+            "B": "Markka",
+            "C": "Krona",
+            "D": "Forint"
+        },
+        "answer": "B"
+    },
 ]
