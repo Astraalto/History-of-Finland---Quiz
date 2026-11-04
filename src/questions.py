@@ -499,4 +499,14 @@ questions = [
         },
         "answer": "B"
     },
+    {
+        "question": "In which year Helsinki Accords were signed?",
+        "options": {
+            "A": "1969",
+            "B": "1973",
+            "C": "1975",
+            "D": "1980"
+        },
+        "answer": "B"
+    },
 ]
