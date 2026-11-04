@@ -507,6 +507,6 @@ questions = [
             "C": "1975",
             "D": "1980"
         },
-        "answer": "B"
-    },
+        "answer": "C"
+    }
 ]
