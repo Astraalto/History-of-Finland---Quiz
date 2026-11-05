@@ -508,5 +508,15 @@ questions = [
             "D": "1980"
         },
         "answer": "C"
-    }
+    },
+    {
+    "question": "What is the name of the national alcohol brand founded in 1 July 1953?",
+            "options": {
+                "A": "Koskenkorva",
+                "B": "Pori",
+                "C": "Ivalo",
+                "D": "Kokkola"
+            },
+            "answer": "A"
+        }
 ]
