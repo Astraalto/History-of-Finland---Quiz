@@ -518,5 +518,15 @@ questions = [
                 "D": "Kokkola"
             },
             "answer": "A"
+    },
+    {
+    "question": "What is the name of the national fashion brand founded in 1951?",
+            "options": {
+                "A": "H and M",
+                "B": "Haavikko",
+                "C": "Nummi",
+                "D": "Marimekko"
+            },
+            "answer": "d"
         }
 ]
