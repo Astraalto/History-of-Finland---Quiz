@@ -527,6 +527,16 @@ questions = [
                 "C": "Nummi",
                 "D": "Marimekko"
             },
-            "answer": "d"
-        }
+            "answer": "D"
+    },
+    {
+    "question": "What is the name of the first amusement park founded in 1950?",
+            "options": {
+                "A": "Tällö",
+                "B": "Linnanmäki",
+                "C": "Arabia",
+                "D": "Häkimäki"
+            },
+            "answer": "B"
+    },
 ]
