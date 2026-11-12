@@ -539,4 +539,14 @@ questions = [
             },
             "answer": "B"
     },
+    {
+    "question": "When was organised Olympics in Helsinki?",
+            "options": {
+                "A": "1952",
+                "B": "1956",
+                "C": "1962",
+                "D": "1970"
+            },
+            "answer": "A"
+    },
 ]
