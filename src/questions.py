@@ -510,43 +510,53 @@ questions = [
         "answer": "C"
     },
     {
-    "question": "What is the name of the national alcohol brand founded in 1 July 1953?",
-            "options": {
-                "A": "Koskenkorva",
-                "B": "Pori",
-                "C": "Ivalo",
-                "D": "Kokkola"
-            },
-            "answer": "A"
+        "question": "What is the name of the national alcohol brand founded in 1 July 1953?",
+        "options": {
+            "A": "Koskenkorva",
+            "B": "Pori",
+            "C": "Ivalo",
+            "D": "Kokkola"
+        },
+        "answer": "A"
     },
     {
-    "question": "What is the name of the national fashion brand founded in 1951?",
-            "options": {
-                "A": "H and M",
-                "B": "Haavikko",
-                "C": "Nummi",
-                "D": "Marimekko"
-            },
-            "answer": "D"
+        "question": "What is the name of the national fashion brand founded in 1951?",
+        "options": {
+            "A": "H and M",
+            "B": "Haavikko",
+            "C": "Nummi",
+            "D": "Marimekko"
+        },
+        "answer": "D"
     },
     {
-    "question": "What is the name of the first amusement park founded in 1950?",
-            "options": {
-                "A": "Tällö",
-                "B": "Linnanmäki",
-                "C": "Arabia",
-                "D": "Häkimäki"
-            },
-            "answer": "B"
+        "question": "What is the name of the first amusement park founded in 1950?",
+        "options": {
+            "A": "Tällö",
+            "B": "Linnanmäki",
+            "C": "Arabia",
+            "D": "Häkimäki"
+        },
+        "answer": "B"
     },
     {
-    "question": "When was organised Olympics in Helsinki?",
-            "options": {
-                "A": "1952",
-                "B": "1956",
-                "C": "1962",
-                "D": "1970"
-            },
-            "answer": "A"
+        "question": "When was organised Olympics in Helsinki?",
+        "options": {
+            "A": "1952",
+            "B": "1956",
+            "C": "1962",
+            "D": "1970"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "What is the name of the drink inveted for the Olympics organised in Helsinki?",
+        "options": {
+            "A": "Aalto",
+            "B": "Haisuli",
+            "C": "Lonkero",
+            "D": "Juoda"
+        },
+        "answer": "C"
     },
 ]
